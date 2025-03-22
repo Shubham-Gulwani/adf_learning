@@ -1,0 +1,9 @@
+{
+	"name": "nsesg",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe68e293-7f51-404c-bc17-701aaff45fd2",
+		"tenantId": "3618db5d-ec4b-40f9-82e2-e0f50da6f6fd"
+	}
+}
